@@ -1,0 +1,68 @@
+.banner{
+    background-color: #FFAE33;
+    text-align: center;
+    padding: 20px 0 20px 0;
+    margin-bottom: 50px;
+    font-weight: bold;
+    font-size: 250%;
+    width: 1300px;
+    height: 100px;
+
+}
+
+.panel{
+    border-bottom: solid 1px black;
+    padding: 0 10% 10px 10%;
+
+}
+
+.breathehorizontal{
+    margin-bottom: 10px;
+
+
+}
+
+.COMPLETEDtodo-item {
+        color: green;
+        text-decoration: line-through;
+  }
+
+.buttonClass.completeButton
+{
+    background-color:greenyellow;
+}
+.deleteButton
+{
+    background-color:orangered ;
+}
+.editButton
+{
+    background-color:#5F9EA0 ;
+}
+
+.submitButton
+{
+    background-color:#DBFF33 ;
+
+}
+
+.buttonClass {
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-right: 5px;
+
+
+}
+
+#spanid{
+    margin-left:130px;
+    font-family:"Times New Roman";
+    font-style: oblique;
+    font-size: 20px;
+    font-weight: bold;
+}
